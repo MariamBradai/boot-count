@@ -19,7 +19,7 @@ code {
 }
 .counterReact{
   margin-top: 7rem;
-  color:white;
+  color:rgb(47, 4, 82);
 }
 button {
   text-align: center;
@@ -44,14 +44,14 @@ button {
 }
 .count {
   font-size: 2rem;
-  color: rgb(121, 8, 83);
+  color: rgb(44, 2, 30);
 }
 .reset-count {
-  background-color: lightpink;
+  background-color: rgb(107, 92, 182);
 }
 
 .reset-all {
-  background-color: lightcoral;
+  background-color: rgb(238, 118, 202);
 }
 .colorCounter{
   color: rgb(54, 2, 39);
