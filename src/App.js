@@ -34,7 +34,7 @@ function App() {
   }
   return (
     <div className=' app d-flex flex-column justify-content-start align-items-center text-center '>
-      <h1 className='counterReact'>Counter with React Hooks</h1>
+      <h1 className='counterReact'>Counter</h1>
       <button className="hideCounter" onClick={toggleCounter}>Hide Counter</button>
       { !show && <h3>Click here </h3> }
       {
